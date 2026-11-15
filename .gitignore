@@ -1,0 +1,6 @@
+
+.metadata/
+build/
+*.log
+.env
+WebContent/WEB-INF/lib/mysql-connector-j-9.7.0/src/
